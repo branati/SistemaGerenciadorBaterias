@@ -1,1 +1,6 @@
 Arquivos do Arduino MEGA
+
+Contém:
+
+- Biblioteca do visor LCD
+- Programa para gravação no Arduino Mega
